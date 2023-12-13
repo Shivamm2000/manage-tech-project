@@ -1,0 +1,29 @@
+Assistive devices are tools, technologies, or products designed to help individuals with disabilities perform tasks that might be challenging due to their impairments. These devices aim to enhance independence, improve quality of life, 
+and enable individuals to participate more fully in daily activities.
+
+1. Mobility Aids:
+ Wheelchairs and Scooters: Electric or manual wheelchairs and scooters assist individuals with mobility impairments.
+ Canes and Walkers: Provide stability and support during walking.
+
+2. Hearing Assistive Devices:
+   Hearing Aids:Amplify sound for individuals with hearing impairments.
+   Cochlear Implants: Directly stimulate the auditory nerve for those with severe hearing loss.
+
+3. Visual Assistive Devices:
+   Screen Readers: Convert digital text into synthesized speech for individuals with visual impairments.
+   Braille Displays: Convert digital text into Braille for tactilr reading.
+
+4. Cognitive Assistive Devices:
+   Memory Aids: Apps or devices that help individuals remember important information and tasks.
+   Cognitive Apps: Assist in organization, time manegement, and cognitive skills development.
+
+5. Assistive Apps and Software:
+   Speech-to-Text Apps: Convert spoken words into written text.
+   Text-to-Speech Apps: Convert written text into spoken words.
+
+6. Wearble Assistive Technology:
+   Smart Glasses: May assist infividuals with visual impairments by providing audio descriptions of the environment.
+   Wearable Vibrating Alerts: Notify individuals of important event or alarms through vibrations.
+
+Assistive devices are continually evolving with advancements in technology.
+
