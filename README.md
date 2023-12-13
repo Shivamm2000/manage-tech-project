@@ -1,4 +1,4 @@
-# manage-tech-project
+# Manage-Tech-Project
 
 Manahing accessibility tech project
 
