@@ -1,6 +1,6 @@
 # Manage-Tech-Project
 
-# Manahing accessibility tech project
+Manahing accessibility tech project
 
 1. Difine Project Scope:
    Clearly define the scope of your accessibility tech project. Specify the types of devices or technologies you aim to develop and the target user groups.
